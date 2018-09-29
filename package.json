@@ -1,0 +1,15 @@
+{
+  "name": "grandeur-server",
+  "version": "0.0.0",
+  "author": "xluobin@163.com",
+  "description": "This is a mini repository to learn koa",
+  "main": "./src/main.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "node ./src/main.js"
+  },
+  "dependencies": {
+    "koa": "^2.5.3",
+    "socket.io": "^2.1.1"
+  }
+}
